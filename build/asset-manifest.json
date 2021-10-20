@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1512cb2d.chunk.css",
+    "main.js": "/static/js/main.89eb9088.chunk.js",
+    "main.js.map": "/static/js/main.89eb9088.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.2fcfa7ad.js",
+    "runtime-main.js.map": "/static/js/runtime-main.2fcfa7ad.js.map",
+    "static/js/2.82233806.chunk.js": "/static/js/2.82233806.chunk.js",
+    "static/js/2.82233806.chunk.js.map": "/static/js/2.82233806.chunk.js.map",
+    "static/js/3.d0e0fbf1.chunk.js": "/static/js/3.d0e0fbf1.chunk.js",
+    "static/js/3.d0e0fbf1.chunk.js.map": "/static/js/3.d0e0fbf1.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.1512cb2d.chunk.css.map": "/static/css/main.1512cb2d.chunk.css.map",
+    "static/js/2.82233806.chunk.js.LICENSE.txt": "/static/js/2.82233806.chunk.js.LICENSE.txt",
+    "static/media/after11.64961562.jpg": "/static/media/after11.64961562.jpg",
+    "static/media/beautiful-dentist-working-dental-clinic.c4d2c506.jpg": "/static/media/beautiful-dentist-working-dental-clinic.c4d2c506.jpg",
+    "static/media/dentalia-demo-team-720x720.1a685d7d.jpg": "/static/media/dentalia-demo-team-720x720.1a685d7d.jpg",
+    "static/media/happy-young-woman-smiling.75560f83.jpg": "/static/media/happy-young-woman-smiling.75560f83.jpg",
+    "static/media/stomatologist-doctor-explaining-proper-dental-hygiene-patient-holding-sample-human-jaw.f267be10.jpg": "/static/media/stomatologist-doctor-explaining-proper-dental-hygiene-patient-holding-sample-human-jaw.f267be10.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2fcfa7ad.js",
+    "static/js/2.82233806.chunk.js",
+    "static/css/main.1512cb2d.chunk.css",
+    "static/js/main.89eb9088.chunk.js"
+  ]
+}
