@@ -10,19 +10,15 @@ const Header = () => {
         <div>
             <Navbar bg="dark" variant='dark' fixed='top' expand="lg">
                 <Container >
-                    <Link to='/home'><Navbar.Brand >Doctor's Dental Care</Navbar.Brand></Link>
+                    <Link to='/home'><Navbar.Brand >CSCR Dental Care</Navbar.Brand></Link>
                     <Navbar.Toggle aria-controls="navbarScroll" />
                     <Navbar.Collapse id="navbarScroll">
                         <Nav
-                            className="me-auto my-2 my-lg-0"
-                            style={{ maxHeight: '100px' }}
-                            navbarScroll
-                        >
+                            className="me-auto my-2 my-lg-0" style={{ maxHeight: '100px' }} navbarScroll>
                             <Nav.Link><Link to='/home'>Home</Link></Nav.Link>
                             <Nav.Link><Link to='/about'>About us</Link></Nav.Link>
                             <Nav.Link><Link to='/services'>services</Link></Nav.Link>
                             <Nav.Link><Link to='/contact'>contact us</Link></Nav.Link>
-
                         </Nav>
                         <Form className="d-flex">
                             {

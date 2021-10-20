@@ -1,6 +1,6 @@
 import React from 'react';
 import { Card, Col, Row } from 'react-bootstrap';
-import logo from '../../images/dentalia-demo-team-720x720.jpg'
+import logo from '../../images/Doctors-bro.png'
 import '../Header/Header.css'
 
 const About = () => {

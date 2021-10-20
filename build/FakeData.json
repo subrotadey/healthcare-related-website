@@ -6,7 +6,7 @@
         "description": "Dental Implants are small titanium screws that allow bone to grow in and around it. They are inserted in the jaw bone to mimic the teeth root and in due time an artificial tooth is attached with it to replace the missing tooth. Then the treatment is finished and the new tooth on implant looks and works just like a natural tooth. For patients who have no teeth, with the help of implants, we can restore full functional set of teeth for them. The functionality and appearance of implant supported tooth is as good as any natural tooth. So if you have any missing tooth, dental implants can be your 2nd permanent tooth.",
         "price": "26.45",
         "rating": "4.3",
-        "img": "https://i.ibb.co/pjT82ct/shutterstock-77455267-320x200.jpg"
+        "img": "https://subrotadey.github.io/userimg/img/servicesImg.jpg"
     },
     {
         "id": 2,
@@ -70,5 +70,14 @@
         "price": "29.99",
         "rating": "4.3",
         "img": "https://i.ibb.co/Lp65KC9/shutterstock-270756593-320x200.jpg"
+    },
+    {
+        "id": 9,
+        "name": "GENTLE LASER DENTISTRY",
+        "title": " Dental treatments",
+        "description": "Lasers are revolutionizing all types of dental treatments, especially those requiring gentle and precise work.",
+        "price": "29.99",
+        "rating": "4.3",
+        "img": "https://i.ibb.co/pjT82ct/shutterstock-77455267-320x200.jpg"
     }
 ]

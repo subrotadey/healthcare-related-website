@@ -15,7 +15,7 @@ const Home = () => {
             <TopHome></TopHome>
             <h1>Our services</h1>
             <hr className='w-25 mx-auto text-success ' />
-            <Row xs={1} sm={2} xl={3} className='g-4 pb-3'>
+            <Row xs={1} sm={2} xl={2} className='g-4 pb-3 '>
                 {
                     services?.slice(0, 6).map(service => <Service
                         key={service.id}
@@ -24,7 +24,7 @@ const Home = () => {
                 }
             </Row>
             <Link to='/services'>
-                <button className='btn btn-warning'>View all services</button></Link>
+                <button className='btn btn-primary'>View all services</button></Link>
             <Doctors></Doctors>
         </div>
     );

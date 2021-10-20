@@ -16,7 +16,7 @@ const TopHome = () => {
                     <p>A comprehensive Dental Centre became operational at United Hospital on 29th April 2012. The Dental Centre has been set up with the aim to provide an international standard dental treatment facility to satisfy and meet the demands of our community.</p>
                     <br />
                     <p>Our dentists Dr Md. Nazrul Islam and Dr Lutfun Nahar both completed their Masters from National University of Singapore and have a 5-years working experience in Singapore.</p>
-                    <h3 className='text-success'>Dr. Jhankar Mahbub</h3>
+                    <h3 className='text-success py-5'>Dr. Md. Gofranul Hoque</h3>
                 </div>
             </div>
         </div>

@@ -1,8 +1,8 @@
 import React from 'react';
 import { Carousel } from 'react-bootstrap';
-import bannerImg1 from '../../images/beautiful-dentist-working-dental-clinic.jpg'
-import bannerImg2 from '../../images/happy-young-woman-smiling.jpg'
-import bannerImg3 from '../../images/stomatologist-doctor-explaining-proper-dental-hygiene-patient-holding-sample-human-jaw.jpg'
+import bannerImg1 from '../../images/banner1.jpg'
+import bannerImg2 from '../../images/banner2.jpg'
+import bannerImg3 from '../../images/banner3.jpg'
 import '../Header/Header.css'
 
 const HomeBanner = () => {

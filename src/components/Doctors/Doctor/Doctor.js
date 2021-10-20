@@ -6,7 +6,7 @@ import '../../Header/Header.css'
 const Doctor = (props) => {
     const { name, title, about, img } = props.doctor;
     return (
-        <div>
+        <div >
             <Col className='doc'>
                 <div className='card-img'>
                     <Card.Img variant="top" src={img} /></div>

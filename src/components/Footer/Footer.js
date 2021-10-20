@@ -4,8 +4,12 @@ import '../Header/Header.css'
 
 const Footer = () => {
     return (
-        <div>
-            <div className='footer mt-5 text-light bg-dark p-3'>
+        <div >
+            <div className='bg-primary text-white py-5 mt-5'>
+                <h1>Be with Us</h1>
+                <h3>Get healthy service, treatment and solutions to your problems from our experts!</h3>
+            </div>
+            <div className='footer text-light bg-dark pb-3 px-2'>
                 <Row xs={1} md={4} xl={4} className="g-4">
                     <Col>
                         <Card.Body>
@@ -49,7 +53,7 @@ const Footer = () => {
                             <Card.Title> <h3>Services</h3> </Card.Title>
                             <hr />
                             <Card.Text>
-                                <div className='d-flex justify-content-between'>
+                                <div>
                                     <div>
                                         <ul>
                                             <ol>
@@ -86,7 +90,8 @@ const Footer = () => {
                     </Col>
                 </Row>
                 <hr />
-            <p> <small className='text-light'>Doctor's Dental Care &copy; 2021 | All Rights Reserved</small> </p>
+            <p> <small className='text-light'>CSCR Dental Care &copy; 2021 | All Rights Reserved</small> </p>
+            <p><small>Developed By Subrota@</small></p>
             </div>
         </div>
     );
