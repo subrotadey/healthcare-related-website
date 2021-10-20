@@ -1,0 +1,59 @@
+a{
+    text-decoration: none;
+}
+.img{
+    max-height: 500px;
+}
+.carousel h3,.carousel p{
+    color: black;
+}
+.not-found{
+  background-color: blanchedalmond;
+}
+.not-found h1 {
+    font-size: 370px;
+    color: red;
+}
+.not-found p{
+    font-size: 40px;
+    color: red;
+}
+.footer{
+    background-color: rgb(211, 208, 208);
+}
+.footer h2{
+    color: black;
+}
+.footer a{
+    color: grey;
+    display: block;
+}
+.footer a:hover{
+    color: black;
+}
+.service{
+    background-color: rgb(195, 225, 236);
+}
+.doc-about{
+    text-align: justify;
+}
+.doctor{
+    background-color: #89d6da6e;
+}
+.doc{
+    overflow: hidden;
+}
+.doc img{
+    transition: ease-in 0.6s transform;
+}
+.doc img:hover{
+    opacity: 0.5;
+    overflow-wrap: initial;
+    transform: scale(1.1);
+}
+.card-img{
+   overflow: hidden;
+}
+.rating{
+    color: goldenrod;
+}
